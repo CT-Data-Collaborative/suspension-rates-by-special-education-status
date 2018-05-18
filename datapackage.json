@@ -1,7 +1,7 @@
 {
   "name": "suspension-rates-by-special-education-status",
   "datapackage_version": "1.0-beta.18",
-  "title": "Suspension-Rates-by-Special-Education-Status",
+  "title": "Suspension Rates by Special Education Status",
   "description": "Suspension Rate reports the percentage of students who have received at least one sanction (ISS, OSS, EXP) during a school year, for students with special education status.",
   "version": "1.0",
   "licenses": [{
