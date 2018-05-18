@@ -1,7 +1,8 @@
 Suspension-Rates-by-Special-Education-Status
 
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/suspension-rates-by-gender.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/suspension-rates-by-gender)
-A short description of the project.
+Suspension Rates by Grade reports the percentage of students receiving at least one sanction (ISS, OSS, EXP) for students with special education status.
+
+Data Source: <http://edsight.ct.gov/SASPortal/main.do>
 
 ## License MIT
 
